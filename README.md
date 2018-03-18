@@ -1,4 +1,4 @@
-<p># stp-2_lab-3
+# stp-2_lab-3
 <p>Realizes the "command" pattern.
 <p>Works as a console application, accepting a series of commands, processing them and displaying the result of the command.
 <p>Acceptable commands:
